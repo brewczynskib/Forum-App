@@ -1,0 +1,29 @@
+.core
+{
+    text-align: center;
+}
+.forum
+{
+    font-size:50px;
+}
+.user
+{
+    color:black;
+    font-size:15px;
+}
+.subject{
+color: forestgreen;
+font-size: 35px;
+}
+.text
+{
+    color: gray;
+    font-size: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.footer
+{
+    text-align: center;
+    padding-top: 100px;
+}
