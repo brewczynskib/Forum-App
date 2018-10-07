@@ -12,3 +12,5 @@ During this project I learned how to use basics of:
 -JPQL
 <br />
 -Git 
+<br />
+-MySql
