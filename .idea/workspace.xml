@@ -9,6 +9,8 @@
     <list default="true" id="917c9fe9-06d9-48cd-95c2-dd730381ebb4" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../Service/src/main/java/Domain/Bank.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../gradle-dataBase-pure/src/main/java/com/brewczynski/ConfigurationClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/brewczynskib/Repositories/AdminRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/brewczynskib/Repositories/AdminRepository.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -47,9 +49,9 @@
     <session id="-253796044">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="23" />
+          <entry key="project.closed" value="25" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.12" value="2" />
@@ -58,12 +60,13 @@
           <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.16" value="2" />
           <entry key="project.open.time.17" value="2" />
-          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="24" />
+          <entry key="project.opened" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -73,7 +76,7 @@
           <entry key="css" value="20" />
           <entry key="gradle" value="5" />
           <entry key="html tags" value="3" />
-          <entry key="java" value="123" />
+          <entry key="java" value="124" />
           <entry key="js" value="3" />
           <entry key="jsp" value="145" />
           <entry key="rnc" value="1" />
@@ -86,7 +89,7 @@
           <entry key="CLASS" value="1" />
           <entry key="CSS" value="20" />
           <entry key="Groovy" value="5" />
-          <entry key="JAVA" value="123" />
+          <entry key="JAVA" value="124" />
           <entry key="JSP" value="145" />
           <entry key="JavaScript" value="3" />
           <entry key="PLAIN_TEXT" value="5" />
@@ -128,20 +131,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/brewczynskib/Controllers/WebController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+            <state relative-caret-position="2788">
+              <caret line="166" column="9" selection-start-line="166" selection-start-column="9" selection-end-line="166" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/brewczynskib/Configuration/ConfigurationClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1088">
+              <caret line="86" column="5" lean-forward="true" selection-start-line="86" selection-start-column="5" selection-end-line="86" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/brewczynskib/Repositories/AdminRepository.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -518,7 +533,6 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/SplitedWords.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/brewczynskib/Forms/ForumForm.java" />
         <option value="$PROJECT_DIR$/src/main/java/brewczynskib/Repositories/UserRepository.java" />
-        <option value="$PROJECT_DIR$/src/main/java/brewczynskib/Repositories/AdminRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/brewczynskib/Repositories/ForumRepository.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/Chat2.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/Chat.jsp" />
@@ -540,6 +554,7 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/Admin.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/brewczynskib/Domain/User.java" />
         <option value="$PROJECT_DIR$/src/main/java/brewczynskib/Controllers/WebController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/brewczynskib/Repositories/AdminRepository.java" />
       </list>
     </option>
   </component>
@@ -568,6 +583,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SecondWebApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="SecondWebApp_main" type="e9137016:NonAndroidModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -608,18 +634,43 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="brewczynskib" type="462c0819:PsiDirectoryNode" />
-              <item name="Repositories" type="462c0819:PsiDirectoryNode" />
+              <item name="Configuration" type="462c0819:PsiDirectoryNode" />
             </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="AndroidView">
-        <subPane>
-          <expand>
             <path>
-              <item name="SecondWebApp" type="1abcf292:AndroidViewProjectNode" />
-              <item name="SecondWebApp_main" type="e9137016:NonAndroidModuleNode" />
+              <item name="SecondWebApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SecondWebApp" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="brewczynskib" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SecondWebApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SecondWebApp" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="brewczynskib" type="462c0819:PsiDirectoryNode" />
+              <item name="Domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SecondWebApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SecondWebApp" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="brewczynskib" type="462c0819:PsiDirectoryNode" />
+              <item name="Forms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SecondWebApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SecondWebApp" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="brewczynskib" type="462c0819:PsiDirectoryNode" />
+              <item name="Repositories" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -631,7 +682,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
-    <property name="SearchEverywhereHistoryKey" value="Contr&#9;FILE&#9;file://C:/Users/barte/Desktop/SecondWebApp/src/main/java/brewczynskib/Controllers/WebController.java&#10;Admin&#9;FILE&#9;file://C:/Users/barte/Desktop/SecondWebApp/src/main/webapp/WEB-INF/views/Admin.jsp&#10;css&#9;FILE&#9;file://C:/Users/barte/Desktop/SecondWebApp/src/main/webapp/resources/Styles/css/ForumFile.css&#10;ExampleFile&#9;FILE&#9;file://C:/Users/barte/Desktop/SecondWebApp/src/main/webapp/resources/Styles/css/ExampleFile.css&#10;Home&#9;FILE&#9;file://C:/Users/barte/Desktop/SecondWebApp/src/main/webapp/WEB-INF/views/Home.jsp&#10;ForumF&#9;FILE&#9;file://C:/Users/barte/Desktop/SecondWebApp/src/main/webapp/resources/Styles/css/ForumFile.css&#10;gra&#9;FILE&#9;file://C:/Users/barte/Desktop/SecondWebApp/build.gradle&#10;gradle&#9;FILE&#9;file://C:/Users/barte/Desktop/SecondWebApp/build.gradle" />
+    <property name="SearchEverywhereHistoryKey" value="admin&#9;FILE&#9;file://C:/Users/barte/Desktop/SecondWebApp/src/main/java/brewczynskib/Repositories/AdminRepository.java&#10;workspace&#9;FILE&#9;file://C:/Users/barte/Desktop/SecondWebApp/.idea/workspace.xml&#10;Contr&#9;FILE&#9;file://C:/Users/barte/Desktop/SecondWebApp/src/main/java/brewczynskib/Controllers/WebController.java&#10;Admin&#9;FILE&#9;file://C:/Users/barte/Desktop/SecondWebApp/src/main/webapp/WEB-INF/views/Admin.jsp&#10;css&#9;FILE&#9;file://C:/Users/barte/Desktop/SecondWebApp/src/main/webapp/resources/Styles/css/ForumFile.css&#10;ExampleFile&#9;FILE&#9;file://C:/Users/barte/Desktop/SecondWebApp/src/main/webapp/resources/Styles/css/ExampleFile.css&#10;Home&#9;FILE&#9;file://C:/Users/barte/Desktop/SecondWebApp/src/main/webapp/WEB-INF/views/Home.jsp&#10;ForumF&#9;FILE&#9;file://C:/Users/barte/Desktop/SecondWebApp/src/main/webapp/resources/Styles/css/ForumFile.css&#10;gra&#9;FILE&#9;file://C:/Users/barte/Desktop/SecondWebApp/build.gradle&#10;gradle&#9;FILE&#9;file://C:/Users/barte/Desktop/SecondWebApp/build.gradle" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538837639404" />
@@ -783,11 +834,14 @@
       <workItem from="1538807753178" duration="7664000" />
       <workItem from="1538815465741" duration="10686000" />
       <workItem from="1538837696382" duration="141000" />
+      <workItem from="1538837845290" duration="904000" />
+      <workItem from="1538843739616" duration="181000" />
+      <workItem from="1538899622476" duration="3501000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120118000" />
+    <option name="totallyTimeSpent" value="124704000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -801,7 +855,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24048583" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24858299" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -991,13 +1045,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/brewczynskib/Configuration/ConfigurationClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="86" column="5" lean-forward="true" selection-start-line="86" selection-start-column="5" selection-end-line="86" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/brewczynskib/Configuration/SpringWebsiteInitializer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="82">
@@ -1057,10 +1104,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/brewczynskib/Controllers/WebController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/brewczynskib/Repositories/AdminRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        <state relative-caret-position="221">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
@@ -1078,10 +1125,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/brewczynskib/Repositories/AdminRepository.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/brewczynskib/Configuration/ConfigurationClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        <state relative-caret-position="1088">
+          <caret line="86" column="5" lean-forward="true" selection-start-line="86" selection-start-column="5" selection-end-line="86" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/brewczynskib/Controllers/WebController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2788">
+          <caret line="166" column="9" selection-start-line="166" selection-start-column="9" selection-end-line="166" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
